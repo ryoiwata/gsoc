@@ -1,29 +1,13 @@
-# Application template
-
-> [!CAUTION]
-> Do not edit this template directly!
-> Instead use it to open a new PR as explained in the [README](../README.md#steps).
-
-
-Please use the following template to submit your application to the NIU GSoC 2025 program, and to discuss your proposal with the community. 
-
-The more closely you follow this template, the easier it will be for us to review your application! Please include clear headings for all the different sections.
-
-## Project title
-Follow the following format for the proposal title: `<Package Name>:<Project Name> (<Your-Name>)` and provide it in your pull request as a new markdown file of the same name, i.e.   `<Package Name>:<Project Name> (<Your-Name>).md`
-
-E.g. "movement: support for Kalman filters (Jane Doe)". 
-
-Please use the same title when you submit your proposal to the GSoC application site!
+## Spikewrap: Add motion correction preprocessing
 
 ## Personal details
 Please include the following information:
-- **Full name** (include preferred name if desired)
-- **Email**
-- **GitHub username**
-- **Zulip username**
-- **Location & time-zone**
-- **Personal website / project portfolio** (optional)
+- **Full name**: Ryo Iwata (or Leo)
+- **Email**: ryoi360@ufl.edu
+- **GitHub username**: ryoiwata
+- **Zulip username** [Ryo (Leo) Iwata](https://neuroinformatics.zulipchat.com/#user/891410)
+- **Location & time-zone**: Eastern Daylight Time (EDT, UTC−4), based in Gainesville, Florida
+- **Personal website / project portfolio**: [www.linkedin.com/in/riwata](www.linkedin.com/in/riwata)
 - **Code contribution**
 
     Please link a pull request, ideally submitted to your chosen project or one of the NIU tools. Applications without a code contribution won't be considered. It must be publicly visible and represent your own work, although you may have help from other developers in the community to further improve it. It must be meaningful code contribution (i.e. not just fixing a minor spelling mistake). While AI tools (such as Copilot etc) can be a very useful, contributions mostly created by AI are unlikely to be useful, and will not be accepted. You can link more than one pull request if desired.
